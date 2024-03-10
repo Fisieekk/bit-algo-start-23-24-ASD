@@ -1,6 +1,7 @@
 # O(nlogn)
 # W rzeczywistości złożoność Quicksorta może osiągnąć nawet O(n^2) przy słabym wybieraniu pivota
 
+
 def partition(arr,low,high) :
     pivot = arr[high]
     i = low - 1

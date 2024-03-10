@@ -1,5 +1,5 @@
 # DISCLAIMER
-# Tego profesor Falsizewski nie omawiał raczej na wykładzie, więc nie można mieć tego kodu na kartce na kolokwiach i egzaminach
+# Tego profesor Faliszewski nie omawiał raczej na wykładzie, więc nie można mieć tego kodu na kartce na kolokwiach i egzaminach
 
 
 def heapify(arr, n, i):
